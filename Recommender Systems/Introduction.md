@@ -11,4 +11,4 @@ To build a recommender system, the first step is to collect data about users and
 
 Finally, the recommender system is deployed and integrated into the target application. The system continuously collects feedback from users, updates the model, and refines its recommendations over time.
 
-In summary, recommender systems are a powerful tool that can help businesses and organizations provide personalized recommendations to their users. These systems can improve user engagement, increase sales, and enhance the overall user experience.                                                          
+In summary, recommender systems are a powerful tool that can help businesses and organizations provide personalized recommendations to their users. These systems can improve user engagement, increase sales, and enhance the overall user experiences.                                                      
