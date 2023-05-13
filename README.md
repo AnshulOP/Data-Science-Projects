@@ -4,7 +4,7 @@ This repository contains a collection of machine learning projects that I have w
 ## Table of Contents
 1. Installation
 2. Usage
-3. Contributing
+3. Contributin
 
 ## Installation
 To run the projects in this repository, you will need to have Python 3 installed on your machine, along with several Python packages.
